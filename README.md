@@ -26,8 +26,6 @@ Completed Flare-On 11 & 12
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haind03&bg_color=0d1117&color=00ff9d&line=00a86b&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution graph" />
 
-<img src="https://streak-stats.demolab.com?user=Haind03&theme=dark&background=0d1117&ring=00ff9d&fire=00a86b&currStreakLabel=00ff9d&hide_border=true" height="165" alt="GitHub contribution streak" />
-
 </div>
 
 <div align="center">
