@@ -4,7 +4,7 @@
 
 ### `Security Researcher` · Vulnerability Discovery · Reverse Engineering · CTF
 
-[![Wordfence Researcher](https://img.shields.io/badge/Wordfence-17%20discoveries-00a86b?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/nguyen-dinh-hai-haind)
+[![Wordfence Researcher](https://img.shields.io/badge/Wordfence-Researcher-00a86b?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/nguyen-dinh-hai-haind)
 [![Email](https://img.shields.io/badge/Email-ndinhhaibn%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndinhhaibn@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-zabta03-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zabta03)
 
@@ -15,7 +15,7 @@ $ whoami
 Security Researcher focused on vulnerability discovery, reverse engineering, and CTF.
 
 $ cat highlights.txt
-17 published vulnerability discoveries
+Wordfence Researcher
 Completed Flare-On 11 & 12
 ```
 
