@@ -30,21 +30,6 @@ Completed Flare-On 11 & 12
 
 <div align="center">
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Haind03&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-
-## GitHub Statistics
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haind03&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haind03&hide_border=true&theme=chartreuse-dark" alt="Contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haind03&theme=chartreuse-dark&hide_border=true&area=true" width="95%" alt="Contribution graph" />
-
-<br />
-
 <a href="https://github.com/Haind03"><img src="https://komarev.com/ghpvc/?username=Haind03&style=flat-square&color=00a86b" alt="Profile views" /></a>
 
 </div>
