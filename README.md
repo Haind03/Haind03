@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:10212b,55:123d4a,100:37e6c0&height=190&section=header&text=HaiND&fontColor=d9fff7&fontSize=54&fontAlignY=42&desc=VULNERABILITY%20RESEARCH%20%7C%20ACADEMIC%20RESEARCH%20%7C%20DIGITAL%20FORENSICS%20%7C%20THREAT%20HUNTING%20%7C%20CTF%20PLAYER&descAlignY=66&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:10212b,55:123d4a,100:37e6c0&height=190&section=header&text=HaiND&fontColor=d9fff7&fontSize=54&fontAlignY=42&desc=VULNERABILITY%20RESEARCH%20%7C%20DIGITAL%20FORENSICS%20%7C%20THREAT%20HUNTING&descAlignY=66&descSize=13" width="100%" />
 
 ### `Vulnerability Research` · `Academic Research` · `Digital Forensics` · `Threat Hunting` · `CTF Player`
 
