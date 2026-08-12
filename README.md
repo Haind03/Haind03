@@ -22,6 +22,17 @@ Completed Flare-On 11 & 12
 
 <div align="center">
 
+## GitHub Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haind03&theme=github_dark" width="95%" alt="GitHub profile activity summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haind03&theme=github_dark" height="165" alt="Repositories by language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haind03&theme=github_dark" height="165" alt="Most committed languages" />
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/Haind03"><img src="https://komarev.com/ghpvc/?username=Haind03&style=flat-square&color=00a86b" alt="Profile views" /></a>
 
 </div>
