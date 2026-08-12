@@ -5,8 +5,7 @@ $ whoami
 Security Researcher
 ```
 
-Security Researcher focused on vulnerability discovery, reverse engineering, and CTF.  
-Nhà nghiên cứu bảo mật, tập trung vào phát hiện lỗ hổng, dịch ngược và CTF.
+Security Researcher focused on vulnerability discovery, reverse engineering, and CTF.
 
 Completed Flare-On 11 & 12 · 17 published vulnerability discoveries
 
