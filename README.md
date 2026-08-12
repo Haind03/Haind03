@@ -26,10 +26,6 @@ Vulnerability Research  |  Academic Research
 Reverse Engineering    |  Web Security  |  CTF
 ```
 
-## Research Interests
-
-`Vulnerability Research` · `Academic Research` · `Reverse Engineering` · `Web Security` · `CTF`
-
 <div align="center">
 
 ## GitHub Activity
