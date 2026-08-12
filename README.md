@@ -8,6 +8,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndinhhaibn@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Social-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zabta03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haind03/)
+[![Followers](https://img.shields.io/github/followers/Haind03?style=for-the-badge&logo=github&label=Followers)](https://github.com/Haind03?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Haind03?style=for-the-badge&logo=github&label=Stars)](https://github.com/Haind03?tab=stars)
 
 </div>
 
@@ -19,6 +21,10 @@ $ cat highlights.txt
 Wordfence Researcher
 Completed Flare-On 11 & 12
 ```
+
+## Research Interests
+
+`Vulnerability Research` · `Academic Research` · `Reverse Engineering` · `Web Security` · `CTF`
 
 <div align="center">
 
