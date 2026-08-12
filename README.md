@@ -19,15 +19,6 @@ $ cat highlights.txt
 Completed Flare-On 11 & 12
 ```
 
-## Featured Security Work
-
-| Project | Focus |
-| --- | --- |
-| [WISP Scanner](https://github.com/Haind03/WISP-scanner) | WordPress-aware static analysis for plugin triage |
-| [Flare-On 11](https://github.com/Haind03/Flare-On11_2024) | Reverse engineering challenge write-ups |
-| [CTF Write-ups](https://github.com/Haind03/Write-up-CTF) | Practical security research and exploitation notes |
-| [PTIT CTF Scoreboard](https://github.com/Haind03/config-scoreboard-for-PTITCTF) | CTF infrastructure and security tooling |
-
 <div align="center">
 
 <a href="https://github.com/Haind03"><img src="https://komarev.com/ghpvc/?username=Haind03&style=flat-square&color=00a86b" alt="Profile views" /></a>
