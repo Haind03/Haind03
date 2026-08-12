@@ -5,8 +5,8 @@
 ### `Security Researcher` · Vulnerability Discovery · Reverse Engineering · CTF
 
 [![Wordfence Researcher](https://img.shields.io/badge/Wordfence-Researcher-00a86b?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/nguyen-dinh-hai-haind)
-[![Email](https://img.shields.io/badge/Email-ndinhhaibn%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndinhhaibn@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-zabta03-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zabta03)
+[![Email](https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndinhhaibn@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Social-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zabta03)
 
 </div>
 
