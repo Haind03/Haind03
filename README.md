@@ -35,8 +35,6 @@ Reverse Engineering     |  Web Security  |  CTF
 [+] contribution stream online
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haind03&bg_color=10212b&color=8fffea&line=37e6c0&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution graph" />
-
 </div>
 
 <div align="center">
