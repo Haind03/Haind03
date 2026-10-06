@@ -29,16 +29,24 @@ Reverse Engineering     |  Web Security  |  CTF
 
 <div align="center">
 
-## GitHub Activity
+## `> git log --activity`
 
-```text
-[+] contribution stream online
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haind03&bg_color=10212b&color=d9fff7&title_color=37e6c0&line=37e6c0&point=d9fff7&area=true&area_color=26bfa6&hide_border=true&radius=8&custom_title=Contribution%20Stream" width="100%" />
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=Haind03&background=10212b&ring=37e6c0&fire=37e6c0&currStreakNum=d9fff7&sideNums=d9fff7&currStreakLabel=37e6c0&sideLabels=8fb8b0&dates=5f8a83&stroke=123d4a&hide_border=true&border_radius=8" width="70%" />
 
-<div align="center">
+<br/>
 
-<a href="https://github.com/Haind03"><img src="https://komarev.com/ghpvc/?username=Haind03&style=flat-square&color=26bfa6" alt="Profile views" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haind03/Haind03/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haind03/Haind03/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Haind03/Haind03/output/snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Haind03&style=flat-square&color=26bfa6&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:37e6c0,45:123d4a,100:10212b&height=120&section=footer" width="100%" />
 
 </div>
