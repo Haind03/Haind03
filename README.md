@@ -29,6 +29,8 @@ Reverse Engineering     |  Web Security  |  CTF
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:37e6c0,100:0d1117&height=2" width="100%" />
+
 <img src="https://streak-stats.demolab.com/?user=Haind03&background=10212b&ring=37e6c0&fire=37e6c0&currStreakNum=d9fff7&sideNums=d9fff7&currStreakLabel=37e6c0&sideLabels=8fb8b0&dates=5f8a83&stroke=123d4a&hide_border=true&border_radius=8" width="85%" />
 
 <picture>
