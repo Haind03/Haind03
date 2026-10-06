@@ -29,11 +29,9 @@ Reverse Engineering     |  Web Security  |  CTF
 
 <div align="center">
 
-## `> git log --activity`
+### `> git log --activity`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haind03&bg_color=10212b&color=d9fff7&title_color=37e6c0&line=37e6c0&point=d9fff7&area=true&area_color=26bfa6&hide_border=true&radius=8&custom_title=Contribution%20Stream" width="100%" />
-
-<img src="https://streak-stats.demolab.com/?user=Haind03&background=10212b&ring=37e6c0&fire=37e6c0&currStreakNum=d9fff7&sideNums=d9fff7&currStreakLabel=37e6c0&sideLabels=8fb8b0&dates=5f8a83&stroke=123d4a&hide_border=true&border_radius=8" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Haind03&background=10212b&ring=37e6c0&fire=37e6c0&currStreakNum=d9fff7&sideNums=d9fff7&currStreakLabel=37e6c0&sideLabels=8fb8b0&dates=5f8a83&stroke=123d4a&hide_border=true&border_radius=8" width="85%" />
 
 <br/>
 
