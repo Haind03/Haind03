@@ -33,10 +33,4 @@ Reverse Engineering     |  Web Security  |  CTF
 
 <img src="https://streak-stats.demolab.com/?user=Haind03&background=10212b&ring=37e6c0&fire=37e6c0&currStreakNum=d9fff7&sideNums=d9fff7&currStreakLabel=37e6c0&sideLabels=8fb8b0&dates=5f8a83&stroke=123d4a&hide_border=true&border_radius=8" width="85%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haind03/Haind03/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haind03/Haind03/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Haind03/Haind03/output/snake-dark.svg" width="100%" />
-</picture>
-
 </div>
